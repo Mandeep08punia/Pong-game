@@ -13,7 +13,7 @@ class bar {
     show() {
         rect(this.x, this.y, this.w, this.h); //rectangular bar displayed on the canvas
     }
-    update() { //logic when bar collides with the bottom part of the canvas
+    update() { //logic when bar touches the bottom and upper part of the canvas
         if (this.y >= height - 45 || this.y <= 45) {
             this.vy = -1 * (this.vy); //velocity of the bar is reversed
         }
