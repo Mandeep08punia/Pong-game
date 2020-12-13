@@ -28,5 +28,5 @@ The sketch.js is a javascript file for the p5.js sketch, with the functions setu
 ### bar.js
 The bar.js is a javascript file for the bars which includes functions like move(),show(),update() and dir().
 
-### Ball.js
+### ball.js
 The ball.js is a javascript file for the ball which includes functions like move(),show(),update() and resetBall().
