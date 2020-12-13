@@ -11,7 +11,7 @@ This is a Pong Game developed using p5.js ,fully explained at every step of code
   * p5.js
   * sketch.js
   * bar.js
-  * Ball.js
+  * ball.js
   
 ### p5.js
 
